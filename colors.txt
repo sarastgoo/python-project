@@ -4,3 +4,4 @@ black
 yellow
 blue
 red
+Pink
