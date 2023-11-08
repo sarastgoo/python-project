@@ -32,6 +32,6 @@ Right aligned columns
 | engine |    engine to be used for processing templates. Handlebars is the default. |
 |    ext |                                      extension to be used for dest files. |
 
-## Links
+## Github Pages
 
-[link text](http://google.com)
+[link text](https://sarastgoo.github.io/python-project/)
