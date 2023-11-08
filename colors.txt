@@ -1,7 +1,6 @@
 gray
 green
-black
-yellow
 blue
 red
-Pink
+pink
+white
