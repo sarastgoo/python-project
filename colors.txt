@@ -3,5 +3,4 @@ green
 black
 yellow
 blue
-red
-Pink
+purpple
